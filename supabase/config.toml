@@ -1,0 +1,4 @@
+project_id = "clinica-dental-sonrisa"
+
+[functions.manage-staff]
+verify_jwt = true
