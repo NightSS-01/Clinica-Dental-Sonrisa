@@ -83,7 +83,7 @@ function LoginPage() {
         <div className="aside-orbit orbit-two" aria-hidden="true" />
         <div className="aside-copy">
           <span>SONRISA · GESTIÓN CLÍNICA</span>
-          <h2>Una atención más clara, desde la recepción hasta el box.</h2>
+          <h2>Una atención más clara Y TESTEO, desde la recepción hasta el box.</h2>
           <p>Agenda, pacientes y gestión clínica en un solo lugar.</p>
         </div>
         <span className="aside-caption">Cuidamos cada detalle de tu clínica.</span>
